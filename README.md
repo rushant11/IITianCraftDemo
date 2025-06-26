@@ -20,16 +20,10 @@ A React Native e-commerce product viewer app with filtering, product details, im
 - **@react-native-community/slider**
 - **TypeScript**
 
-## 🖼️ Screenshots
-
-| Home Screen         | Product Detail        | Filter Modal        |
-|---------------------|------------------------|----------------------|
-| _Add screenshots here_ | _Add screenshots here_ | _Add screenshots here_ |
-
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/iitiancraftdemo.git
+git clone https://github.com/rushant11/iitiancraftdemo.git
 cd iitiancraftdemo
 yarn install
 yarn start

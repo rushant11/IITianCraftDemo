@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Red T-Shirt",
+    "description": "100% cotton red t-shirt",
+    "price": 499,
+    "category": "Clothing",
+    "images": [
+      "https://picsum.photos/id/237/200/300",
+      "https://fastly.picsum.photos/id/24/4855/1803.jpg?hmac=ICVhP1pUXDLXaTkgwDJinSUS59UWalMxf4SOIWb9Ui4"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Wireless Headphones",
+    "description": "Noise cancelling over-ear headphones",
+    "price": 2999,
+    "category": "Electronics",
+    "images": [
+      "https://picsum.photos/seed/picsum/200/300",
+      "https://fastly.picsum.photos/id/23/3887/4899.jpg?hmac=2fo1Y0AgEkeL2juaEBqKPbnEKm_5Mp0M2nuaVERE6eE"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Blue Jeans",
+    "description": "Slim fit denim jeans",
+    "price": 1299,
+    "category": "Clothing",
+    "images": [
+      "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4",
+      "https://fastly.picsum.photos/id/22/4434/3729.jpg?hmac=fjZdkSMZJNFgsoDh8Qo5zdA_nSGUAWvKLyyqmEt2xs0"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch",
+    "description": "Fitness tracking smartwatch with heart rate monitor",
+    "price": 4599,
+    "category": "Electronics",
+    "images": [
+      "https://fastly.picsum.photos/id/26/4209/2769.jpg?hmac=vcInmowFvPCyKGtV7Vfh7zWcA_Z0kStrPDW3ppP0iGI",
+      "https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Running Shoes",
+    "description": "Breathable and lightweight running shoes",
+    "price": 2499,
+    "category": "Clothing",
+    "images": [
+      "https://fastly.picsum.photos/id/28/4928/3264.jpg?hmac=GnYF-RnBUg44PFfU5pcw_Qs0ReOyStdnZ8MtQWJqTfA",
+      "https://fastly.picsum.photos/id/29/4000/2670.jpg?hmac=rCbRAl24FzrSzwlR5tL-Aqzyu5tX_PA95VJtnUXegGU"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass",
+    "price": 1799,
+    "category": "Electronics",
+    "images": [
+      "https://fastly.picsum.photos/id/30/1280/901.jpg?hmac=A_hpFyEavMBB7Dsmmp53kPXKmatwM05MUDatlWSgATE",
+      "https://fastly.picsum.photos/id/32/4032/3024.jpg?hmac=n7I3OdGszMIwuGcvplNthgBmAxvAZ3rNBBSuDFZaItQ"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Denim Jacket",
+    "description": "Classic denim jacket with button front",
+    "price": 1899,
+    "category": "Clothing",
+    "images": [
+      "https://fastly.picsum.photos/id/36/4179/2790.jpg?hmac=OCuYYm0PkDCMwxWhrtoSefG5UDir4O0XCcR2x-aSPjs",
+      "https://fastly.picsum.photos/id/37/2000/1333.jpg?hmac=vpYLNsQZwU2szsZc4Uo17cW786vR0GEUVq4icaKopQI"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Gaming Mouse",
+    "description": "High-precision optical gaming mouse with RGB lighting",
+    "price": 1399,
+    "category": "Electronics",
+    "images": [
+      "https://fastly.picsum.photos/id/41/1280/805.jpg?hmac=W9CWeYdlZisqEfhjuODl83T3lCXAqjUZrOe9iMFPYmI",
+      "https://fastly.picsum.photos/id/42/3456/2304.jpg?hmac=dhQvd1Qp19zg26MEwYMnfz34eLnGv8meGk_lFNAJR3g"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Casual Hoodie",
+    "description": "Comfortable hoodie for daily wear",
+    "price": 1099,
+    "category": "Clothing",
+    "images": [
+      "https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI",
+      "https://fastly.picsum.photos/id/37/4752/3168.jpg?hmac=nZY4eNIFSo_K94AdpA4adTYRGOWqUq0x6J6pbTI0N8M"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Tablet Stand",
+    "description": "Adjustable aluminum stand for tablets and phones",
+    "price": 899,
+    "category": "Electronics",
+    "images": [
+      "http://fastly.picsum.photos/id/58/1280/853.jpg?hmac=YO3QnOm9TpyM5DqsJjoM4CHg8oIq4cMWLpd9ALoP908",
+      "https://fastly.picsum.photos/id/59/2464/1632.jpg?hmac=uTfe6jCzLvCzANvJgtpo-a0fKhO8BvjpwLNYX3lqx_Q"
+    ]
+  }
+]
